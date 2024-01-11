@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap');
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    min-height: 100vh;
+}
+.main-heading{
+    font-family: "Inter";
+    font-size: 28px;
+}
+.products-section{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.product-card{
+    width: 300px;
+}
+.product-image{
+    width: 100%;
+    height: 400px;
+}
+.badge-text{
+    font-family: "Inter";
+    padding: ;
+}
